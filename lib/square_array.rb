@@ -2,4 +2,4 @@
 
 describe '#square_array'
 
-it 'does not call on each,'
+it 'does not call on each, collect, map, or inject'
