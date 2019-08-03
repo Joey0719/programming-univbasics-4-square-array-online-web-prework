@@ -2,4 +2,4 @@
 
 describe '#square_array'
 
-it 
+it 'does not call'
