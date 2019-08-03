@@ -1,3 +1,4 @@
 "bundler"
 
-describe #square_array
+describe '#square_array'
+
